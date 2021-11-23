@@ -4,7 +4,7 @@ Boas-vindas ao repositório do Jogo da Velha, esse dojo foi desenvolvido com o i
 
 <center><img src="https://media1.giphy.com/media/6sS1G3MoTdQG8ol0Jd/giphy.gif?cid=790b7611e8a601e2d915b04089fefaf71fbf5f37b842736a&rid=giphy.gif&ct=g" width="416" height="480" ></img></center>
 
-#Habilidades:
+# Habilidades:
   - Logica de programação
  - Laços de repetição
  - Arrays
